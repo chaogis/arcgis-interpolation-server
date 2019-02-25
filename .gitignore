@@ -1,0 +1,9 @@
+.vscode
+*.pyc
+*.png
+*.log
+
+**/log
+**/state
+**/temp_day
+**/temp_hour
